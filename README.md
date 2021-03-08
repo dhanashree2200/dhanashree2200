@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java and Flutter**
+- 💬 Ask me about **Java and Android**
 
 - 📫 How to reach me **dhanashreekp2200@gmail.com**
 
