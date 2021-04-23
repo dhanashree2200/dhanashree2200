@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanashree Patil</h1>
 <h3 align="center">A passionate frontend developer and backend from India</h3>
 
-- 🔭 I’m currently working on **Daily Expenses Tracker Flutter Project**
+- 🔭 I’m currently working on **Meals App Flutter Project**
 
 - 🌱 I’m currently learning **Flutter**
 
